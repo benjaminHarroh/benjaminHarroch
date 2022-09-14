@@ -6,9 +6,7 @@ or use it. It helps me a lot.
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
-[![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
+
 
 
 Hi, I'm [Benjamin Harroch] a high school student and an Front-end devloper. from
@@ -17,6 +15,9 @@ Hi, I'm [Benjamin Harroch] a high school student and an Front-end devloper. from
 ### My top  technologies
 
 |![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)
+![](https://img.shields.io/badge/mongo-Db-brightgreen)
+![](https://img.shields.io/badge/c-language-brightgreen)
+![](https://img.shields.io/badge/React-8.15.0-brightgreen)
 
 
 <img src=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif width='100' height='100' >
