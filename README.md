@@ -9,7 +9,7 @@ or use it. It helps me a lot.
 
 
 
-Hi, I'm [Benjamin Harroch] a high school student and an Front-end devloper. from
+Hi, I'm [Benjamin Harroch] a high school student and an Front-end [ MERN stack] developer. from
 [Ashdod, Israel](https://www.google.com/maps/place/%D7%90%D7%A9%D7%93%D7%95%D7%93%E2%80%AD/@31.8083017,34.6931735,13z/data=!3m1!4b1!4m5!3m4!1s0x1502a3117547e4ef:0x97806d1a5a86632f!8m2!3d31.804381!4d34.655314?hl=iw) :israel:
 
 ### My top  technologies
