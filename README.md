@@ -17,7 +17,7 @@ Hi, I'm [Benjamin Harroch] a high school student and an Front-end [ MERN stack] 
 |![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)
 ![](https://img.shields.io/badge/mongo-Db-brightgreen)
 ![](https://img.shields.io/badge/c-language-brightgreen)
-![](https://img.shields.io/badge/c#-language-brightgreen)
+![](https://img.shields.io/badge/csharp-language-brightgreen)
 ![](https://img.shields.io/badge/React-8.15.0-brightgreen)
 
 
